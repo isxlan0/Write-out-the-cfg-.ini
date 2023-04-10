@@ -1,1 +1,3 @@
-# Write-out-the-cfg-.ini
+# 一键写出cfg.ini
+
+本程序使用易语言编写 引用超级模块实现功能
